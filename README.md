@@ -7,4 +7,4 @@ Kelas: PBKK C
 
 
 Dokumentasi:
-<img width="818" height="367" alt="image" src="https://github.com/user-attachments/assets/977b10d3-06dd-4524-b357-f5232f04b3f4" />
+<img width="325" height="495" alt="Screenshot 2026-09-23 220858" src="https://github.com/user-attachments/assets/6acc943a-3187-4248-9f33-ba9d7f020fb5" />
